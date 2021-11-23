@@ -1,1 +1,1 @@
-# SAM_competition1
+# https://sam.healthbigdata.org/competitions/2/infomation
